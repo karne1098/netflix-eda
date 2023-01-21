@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/netflix-eda/static/css/main.073c9b0a.css",
-    "main.js": "/netflix-eda/static/js/main.b02e2d64.js",
+    "main.js": "/netflix-eda/static/js/main.addc6df8.js",
     "static/js/787.28cb0dcd.chunk.js": "/netflix-eda/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/netflix-eda/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/netflix-eda/index.html",
     "main.073c9b0a.css.map": "/netflix-eda/static/css/main.073c9b0a.css.map",
-    "main.b02e2d64.js.map": "/netflix-eda/static/js/main.b02e2d64.js.map",
+    "main.addc6df8.js.map": "/netflix-eda/static/js/main.addc6df8.js.map",
     "787.28cb0dcd.chunk.js.map": "/netflix-eda/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b02e2d64.js"
+    "static/js/main.addc6df8.js"
   ]
 }
